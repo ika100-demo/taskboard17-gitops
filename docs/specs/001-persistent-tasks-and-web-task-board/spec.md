@@ -1,7 +1,7 @@
 ---
 spec_id: 001-persistent-tasks-and-web-task-board
 title: Persistent tasks and web task board
-status: draft
+status: approved
 priority: P1
 shape: gitops-app
 ---
@@ -63,3 +63,4 @@ As a task board user, I want to create a task with a title and an optional due d
 
 - 2026-11-15 created
 - 2026-11-15 amended: access question answered (open access in dev; login spec before staging or prod), folded into Non-goals
+- 2026-11-15 approved
